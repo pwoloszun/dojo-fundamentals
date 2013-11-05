@@ -1,0 +1,20 @@
+.js-content {
+  position: relative;
+  height: 1700px;
+}
+
+.js-content .js-menu {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  background-color: #a00;
+  height: 300px;
+  width: 20px;
+}
+
+.js-content .js-menu .js-indicator {
+  position: absolute;
+  height: 10px;
+  background-color: #0f0;
+  width: 100%;
+}
